@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background: black;
+    text-align: center;
+    text-shadow: 1cqh;
+}
+button{
+    color: red;
+    background: black;
+
+}
+button:hover{
+    color: rgb(16, 41, 182);
+    padding: 8px;
+    text-shadow: black;
+}
